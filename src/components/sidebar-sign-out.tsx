@@ -83,7 +83,10 @@ const SidebarSignOut: FC<SidebarSignOutProps> = ({}) => {
                 </svg>
               </CommandItem>
               <Separator className="my-1" />
-              <CommandItem onSelect={() => setOpen(false)}>
+              <CommandItem
+                onSelect={() => setOpen(false)}
+                className="text-red-600"
+              >
                 <LogOut size={15} className="mr-2" />
                 Sign out
               </CommandItem>
