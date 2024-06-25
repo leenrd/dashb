@@ -44,7 +44,7 @@ const Layout: FC<LayoutProps> = ({ children }) => {
                     </Link>
                   </li>
                   <li>
-                    <Link href="/admin/settings">
+                    <Link href="/admin/settings/general">
                       <Button
                         variant="ghost"
                         className="w-full justify-start px-3"
