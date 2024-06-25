@@ -27,7 +27,7 @@ export default function Home() {
             <AccordionTrigger>How is it styled?</AccordionTrigger>
             <AccordionContent>
               🦖 It comes with default styles from shadcn-ui and tremor raws,
-              the graphs are from nevos library.
+              the graphs are from rechart library.
             </AccordionContent>
           </AccordionItem>
           <AccordionItem value="item-3">
