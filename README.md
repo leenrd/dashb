@@ -19,3 +19,8 @@ This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-opti
 > [!Note]
 >
 > You can check out my other projects in [My Portfolio](https://leenard.tech) - your feedback and contributions are welcome!
+
+## Screenshots
+![image](https://github.com/leenrd/dashboard-template/assets/103997539/cfd885ef-34d0-4ae0-a288-8610dd9a5352)
+![image](https://github.com/leenrd/dashboard-template/assets/103997539/b199bb7b-8a37-47b6-89cf-4640720d592b)
+
