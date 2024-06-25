@@ -28,4 +28,12 @@ export const categories: {
     title: "Logins",
     type: "unit",
   },
+  {
+    title: "Payments completed",
+    type: "currency",
+  },
+  {
+    title: "Logins",
+    type: "unit",
+  },
 ];

@@ -99,7 +99,7 @@ const Page: FC<PageProps> = ({}) => {
         </div>
         <dl
           className={cn(
-            "mt-10 grid grid-cols-1 gap-14 sm:grid-cols-1 md:grid-cols-2 xl:grid-cols-3"
+            "mt-10 grid grid-cols-1 gap-14 sm:grid-cols-1 md:grid-cols-2 xl:grid-cols-3  pb-16"
           )}
         >
           {categories.map((category) => {
