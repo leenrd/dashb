@@ -24,7 +24,7 @@ const Page: FC<PageProps> = async ({}) => {
       <h1 className="text-lg font-semibold text-gray-900 sm:text-xl dark:text-gray-50">
         Records
       </h1>
-      <div>
+      <div className="h-full flex-1 flex-col space-y-8 flex mt-6 mb-12">
         <DataTable data={tasks} columns={columns} />
       </div>
     </div>
