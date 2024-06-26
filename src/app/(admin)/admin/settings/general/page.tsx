@@ -259,7 +259,7 @@ const Page: FC<PageProps> = ({}) => {
           </Card>
           <Card className="min-w-full grid grid-cols-3 items-center">
             <CardHeader className="col-span-2">
-              <CardTitle className="text-base">Delete account</CardTitle>
+              <CardTitle className="text-base">Delete workspace</CardTitle>
               <CardDescription>
                 Revoke your access to this team. Other people you have added to
                 the workspace will remain.

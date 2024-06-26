@@ -19,6 +19,7 @@
     "@radix-ui/react-popover": "^1.1.1",
     "@radix-ui/react-separator": "^1.1.0",
     "@radix-ui/react-slot": "^1.1.0",
+    "@radix-ui/react-switch": "^1.1.0",
     "@react-aria/datepicker": "^3.10.1",
     "@react-stately/datepicker": "^3.9.4",
     "class-variance-authority": "^0.7.0",
