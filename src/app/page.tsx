@@ -38,10 +38,7 @@ export default function Home() {
               react-hook-form. All table functions are done in the server.
             </AccordionContent>
           </AccordionItem>
-          <AccordionItem value="item-4">
-            <AccordionTrigger>Bat anggaling mo?</AccordionTrigger>
-            <AccordionContent>☠️...</AccordionContent>
-          </AccordionItem>
+    
         </Accordion>
       </div>
     </main>
