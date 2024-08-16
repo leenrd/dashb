@@ -21,7 +21,7 @@ export default function Home() {
         <Accordion type="single" collapsible className="w-full">
           <AccordionItem value="item-1">
             <AccordionTrigger>Is it responsive?</AccordionTrigger>
-            <AccordionContent>😔 emmm. hehe.</AccordionContent>
+            <AccordionContent>😔 working on it.</AccordionContent>
           </AccordionItem>
           <AccordionItem value="item-2">
             <AccordionTrigger>How is it styled?</AccordionTrigger>
