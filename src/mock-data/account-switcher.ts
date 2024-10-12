@@ -14,13 +14,6 @@ export const accounts = [
     color: "bg-cyan-400",
   },
   {
-    init: "NT",
-    value: "Niggatron",
-    label: "Niggatron",
-    type: "Admin",
-    color: "bg-orange-400",
-  },
-  {
     init: "LW",
     value: "Lil Wayne",
     label: "Lil Wayne",
@@ -33,12 +26,5 @@ export const accounts = [
     label: "Kabutchi",
     type: "Admin",
     color: "bg-blue-400",
-  },
-  {
-    init: "NG",
-    value: "Nigga",
-    label: "Nigga",
-    type: "Admin",
-    color: "bg-purple-400",
-  },
+  }
 ];
